@@ -1,0 +1,1 @@
+I'm starting some projects to explore and learn more about AI.
